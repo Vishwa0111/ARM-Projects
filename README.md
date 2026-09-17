@@ -4,7 +4,7 @@ This repository contains my ARM microcontroller projects, experiments, and pract
 
 ## Projects
 
-### 1. Digital Stopwatch using LPC2129
+### Digital Stopwatch using LPC2129
 
 A digital stopwatch project developed using the LPC2129 ARM7 microcontroller.
 
@@ -15,6 +15,7 @@ A digital stopwatch project developed using the LPC2129 ARM7 microcontroller.
 - `delay.c`
 
 ## Technologies
+
 - ARM7 LPC2129
 - Embedded C
 - Keil µVision
