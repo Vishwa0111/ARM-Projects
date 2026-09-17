@@ -1,0 +1,34 @@
+# Keil / µVision user-specific files
+*.uvopt
+*.uvoptx
+*.uvgui
+*.uvgui.*
+*.workspace
+
+# Keil generated listing files
+*.lst
+*.map
+*.htm
+*.lnp
+*.dep
+
+# Keil generated object/build files
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.obj
+
+# Generated build directories
+Listings/
+Objects/
+
+# Backup files
+*.bak
+*.pdsbak
+
+# Temporary files
+*.tmp
+Digital Stop Watch Backup/
